@@ -66,7 +66,7 @@ make local-prod-deploy
 | **Monitoring**     | Azure Monitor integration and custom alerts for operational insights |
 
 ## 📚 Further Reading
-- [Deployment Guide](https://github.com/your-username/semana-databricks/blob/main/terraform/readme.md)  
+- [Deployment Guide]([https://github.com/your-username/semana-databricks/blob/main/terraform/readme.md](https://github.com/danielwisouza/Databricks-Week/blob/main/terraform/readme.md))  
 - [Databricks Documentation](https://docs.databricks.com/)
 
 ## License 📄
