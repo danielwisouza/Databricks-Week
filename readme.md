@@ -71,7 +71,7 @@ make local-prod-deploy
 - [Databricks Documentation](https://docs.databricks.com/)
 
 ## License 📄
-MIT License – see the [LICENSE](LICENSE) file for details.
+MIT License – see the [LICENSE] file for details.
 
 ---
 
@@ -96,8 +96,3 @@ env_config = {
 Feel free to fork this repo and submit Pull Requests!
 
 ---
-
-#### Note:
-- This structure keeps things minimal, with the essential parts visible and quick to understand.
-- More in-depth instructions and customization options are available by clicking on the [full readme](https://github.com/danielwisouza/semana-databricks/blob/main/terraform/readme.md).
-- The architecture and deployment steps are cleanly outlined with essential details upfront.
