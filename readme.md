@@ -18,7 +18,7 @@ This repository contains Terraform code to deploy a **Databricks Data Intelligen
 
 ## 🚀 Quick Start
 
-For a comprehensive step-by-step guide, check the full [deployment guide](https://github.com/danielwisouza/Databricks-Week/blob/main/terraform/readme.md).
+For a comprehensive step-by-step guide, check the full [deployment guide](https://github.com/danielwisouza/DatabricksWeek-DataIntelligenceForUberEats/blob/main/terraform/readme.md).
 
 
 ### 1. Prerequisites
@@ -67,7 +67,7 @@ make local-prod-deploy
 | **Monitoring**     | Azure Monitor integration and custom alerts for operational insights |
 
 ## 📚 Further Reading
-- [Deployment Guide](https://github.com/danielwisouza/Databricks-Week/blob/main/terraform/readme.md)
+- [Deployment Guide](https://github.com/danielwisouza/DatabricksWeek-DataIntelligenceForUberEats/blob/main/terraform/readme.md)
 - [Databricks Documentation](https://docs.databricks.com/)
 
 ## License 📄
